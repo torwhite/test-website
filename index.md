@@ -7,7 +7,9 @@ boxId: kweltidiq4bv1m9ow12prsuo9x2espsd
 
 
 -------------------------------------------
-Add workshop description here. Make sure it is descriptive enough that people understand what they will learn in the workshop, but only one paragraph with no more than 3-5 sentences. (same as workshop description for event announcements)
+This is a TEST webiste , please IGNORE ALL channges ....Add workshop 
+description here. Make sure it is descriptive enough 
+that people understand what they will learn in the workshop, but only one paragraph with no more than 3-5 sentences. (same as workshop description for event announcements)
 
 Additionally, in a second paragraph, please mention the data set or materials that will be used in the workshop and briefly describe them. Also, briefly describe some of the things that will be done with the data/materials in the workshop, "i.e. load data into Jupyter Notebook and create basic data visualizations showing the relationship between [variable 1] and [variable 2].
 
